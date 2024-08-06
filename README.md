@@ -19,5 +19,5 @@
 + *🎉各种Bug避坑分享~🐳*
 
 ## 日常摸鱼
-[![JeffreyZhu0201's GitHub | Stats](https://stats.quira.sh/JeffreyZhu0201/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=JeffreyZhu0201)
+[![JeffreyZhu0201's GitHub | Topics Over Time](https://stats.quira.sh/JeffreyZhu0201/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=JeffreyZhu0201)
 
