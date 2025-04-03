@@ -1,5 +1,5 @@
 
-# Hello,I'm Jeffrey Zhu
+# Hi there👋,I'm Jeffrey Zhu
 #### 一个全栈
 #### 西南部985工科在读
 
@@ -18,5 +18,8 @@
 + *✨定期发布优质博客✨*
 + *🎉各种Bug避坑分享~🐳*
 
+## 技术栈
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffreyZhu0201&layout=compact&theme=tokyonight)
 ## 日常摸鱼
-[![JeffreyZhu0201's GitHub | Languages Over Time](https://stats.quira.sh/JeffreyZhu0201/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=JeffreyZhu0201)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=JeffreyZhu0201&theme=dracula)
+
