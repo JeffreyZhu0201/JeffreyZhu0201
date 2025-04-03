@@ -21,5 +21,5 @@
 ## 技术栈
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffreyZhu0201&layout=compact&theme=tokyonight)
 ## 日常摸鱼
-![](https://github-readme-activity-graph.cyclic.app/graph?username=JeffreyZhu0201&theme=dracula)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JeffreyZhu0201&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
