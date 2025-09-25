@@ -1,8 +1,5 @@
 
 # Hi there👋,I'm Jeffrey Zhu
-Here’s an elegant translation of your profile into English:
-
----
 
 A Full-Stack Developer  
 Southwest China (985 Project) Engineering Student  
