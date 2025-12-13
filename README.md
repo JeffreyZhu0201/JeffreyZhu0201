@@ -9,7 +9,6 @@ Southwest China (985 Project) Engineering Student
 
 • Began full-stack development in high school, with 4 years of web development experience.  
 
-
 ⚡️ Tech Stack 🚧  
 React · Tailwind.css · Next.js/Vercel · Vue3 · Uniapp · ElementUI · Ant Design · Node.js/Express  
 
