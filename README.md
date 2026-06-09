@@ -16,7 +16,7 @@ PyTorch / Python / Linux / LaTeX
 
 ## 👨‍💻 About Me
 
-I'm an engineering student at **Chongqing University (985 Project)**, currently focusing on **Computer Vision** and **Hyperspectral Target Detection**.  
+I'm an engineering student at **Chongqing University (985 Project)**, currently focusing on **Deep Learning, Computer Vision, and Full-Stack Development**.  
 My background started with competitive programming in middle school, followed by 4+ years of full‑stack development experience. Recently, my work has been moving toward the intersection of **deep learning, remote sensing, and practical AI systems**.
 
 - 🔬 Current research interest: **Hyperspectral Target Detection / Remote Sensing CV**
