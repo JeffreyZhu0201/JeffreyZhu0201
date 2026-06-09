@@ -4,7 +4,7 @@
 
 **Computer Vision / Deep Learning Researcher · Full‑Stack Developer · Former OIer**
 
-重庆大学 · 高光谱目标探测方向 · PyTorch / Python / Linux / LaTeX
+PyTorch / Python / Linux / LaTeX
 
 [![GitHub followers](https://img.shields.io/github/followers/JeffreyZhu0201?style=flat-square&label=Followers)](https://github.com/JeffreyZhu0201)
 [![Profile views](https://komarev.com/ghpvc/?username=JeffreyZhu0201&style=flat-square&color=blueviolet)](https://github.com/JeffreyZhu0201)
