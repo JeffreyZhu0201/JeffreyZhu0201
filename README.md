@@ -1,165 +1,46 @@
 <div align="center">
 
-# Hi, I'm Jeffrey Zhu 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%C2%B7+AI+Product+Engineer;TypeScript+%C2%B7+Go+%C2%B7+Python+%C2%B7+Java;From+prototype+to+production" alt="Typing SVG" />
 
-**Full-Stack Developer · AI Application Builder**
-
-I design and ship complete systems — from LLM-powered products to production-grade backends and cross-platform apps.
-
-[![Followers](https://img.shields.io/github/followers/JeffreyZhu0201?style=flat-square)](https://github.com/JeffreyZhu0201)
-[![Profile views](https://komarev.com/ghpvc/?username=JeffreyZhu0201&style=flat-square&color=blueviolet)](https://github.com/JeffreyZhu0201)
-[![Blog](https://img.shields.io/badge/Blog-Jeffrey--Blog-0ea5e9?style=flat-square)](https://github.com/JeffreyZhu0201/Jeffrey-Blog)
-[![Email](https://img.shields.io/badge/Email-jeffreyzhu0201@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jeffreyzhu0201@gmail.com)
+**Jeffrey Zhu** · 全栈开发，专注把 AI 能力与跨端产品做成交付：移动端、管理后台、服务端到模型服务，一条链路跑通。
 
 </div>
 
----
+## 🔭 Focus
 
-## 🚀 What I Build
+- **跨端产品交付**：Expo / React Native 移动端 + React 管理后台 + Go / Java 服务端，同一套业务跑通端到端
+- **后端工程**：Gin + GORM 分层架构、RBAC 与数据权限、JWT + Bcrypt 认证、Redis 缓存、Docker 编排
+- **AI 应用落地**：植物识别（PyTorch + FastAPI）、ERP 经营诊断模型，把模型接进真实业务链路
+- **可复用交付物**：前后端分离的博客平台、支付 SDK（Go + RSA 签名）、校园网自动连接工具
 
-I'm a full-stack developer focused on **AI-powered applications and complete product systems**. My work spans LLM agent frameworks, cross-platform mobile apps, full-stack web platforms, and reusable backend SDKs — turning ideas into deployable products end-to-end.
+## 🧩 Featured Projects
 
-- 🧠 **AI Applications** — LLM agents, RAG pipelines, vector search, AI assistants
-- 🏗️ **Full-Stack Products** — Next.js + Spring Boot / Go backends, mobile + admin dashboards
-- 🛠️ **Backend & SDK** — Go / Java microservices, payment SDKs, API security
-- 🌐 **Cross-Platform** — React Native (Expo) mobile apps, browser extensions
+| 项目 | 说明 | 技术 |
+| --- | --- | --- |
+| [NanoPress](https://github.com/JeffreyZhu0201/NanoPress) | 基于 Next.js 与 Spring Boot 3 的前后端分离个人博客平台，开箱即用 | Next.js · Spring Boot 3 · TypeScript |
+| [GardenGuideAI](https://github.com/JeffreyZhu0201/GardenGuideAI) | 跨平台智能园艺助手：移动应用 + AI 识别服务 + 官网门户 | React Native · FastAPI · PyTorch |
+| [MeridianERP](https://github.com/JeffreyZhu0201/MeridianERP) | 多租户 SaaS ERP：CRM、进销存、佣金结算、订单履约与 AI 经营诊断 | TypeScript · pnpm · Docker |
+| [UniHub](https://github.com/JeffreyZhu0201/UniHub_go_backend) | 校园组织架构管理系统：Go 后端（[移动端](https://github.com/JeffreyZhu0201/Unihub_mobile) · [管理端](https://github.com/JeffreyZhu0201/Unihub-react-board)） | Go · Gin · GORM · MySQL |
+| [rainbow-pay-sdk-go](https://github.com/JeffreyZhu0201/rainbow-pay-sdk-go) | 彩虹易支付 V2 的 Go SDK：订单创建、MD5 / RSA 签名与支付请求 | Go · RSA · SDK |
+| [CQU-auto-connect](https://github.com/JeffreyZhu0201/CQU-auto-connect) | 重庆大学校园 Wi-Fi 多平台自动连接工具 | Python |
 
----
+## 🔀 Recent Pull Requests
 
-## 🏆 Featured Projects
+- **[NanoPress#4](https://github.com/JeffreyZhu0201/NanoPress/pull/4)** — 解决跨域问题（已合并）
+- **[NanoPress#2](https://github.com/JeffreyZhu0201/NanoPress/pull/2)** — 修复缺陷（已合并）
+- **[NanoPress#5](https://github.com/JeffreyZhu0201/NanoPress/pull/5)** — 补充 README 内容（review 中）
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌿 <a href="https://github.com/JeffreyZhu0201/GardenGuideAI">GardenGuideAI</a></h3>
-      <p><b>AI-powered plant recognition & care assistant</b></p>
-      <p>Cross-platform gardening app combining mobile client, AI recognition service, and product website — identifies plants and provides expert care advice.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📝 <a href="https://github.com/JeffreyZhu0201/NanoPress">NanoPress</a></h3>
-      <p><b>Out-of-the-box personal blog platform</b></p>
-      <p>Front-end & back-end separated blog built with Next.js and Spring Boot 3 — production-deployed and used as my personal publishing platform.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏫 <a href="https://github.com/JeffreyZhu0201/UniHub_go_backend">UniHub</a> · Mobile · Dashboard</h3>
-      <p><b>Cross-platform campus management system</b></p>
-      <p>Full product line: Go backend (RBAC, JWT, organizations, leave approval, check-ins, open API) + Expo mobile app + React admin dashboard.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=gin&logoColor=white" />
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://github.com/JeffreyZhu0201/Unihub_mobile">📱 Mobile</a> ·
-        <a href="https://github.com/JeffreyZhu0201/Unihub-react-board">📊 Dashboard</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚀 <a href="https://github.com/JeffreyZhu0201/agent-mesh">AgentMesh</a></h3>
-      <p><b>Multi-tenant LLM Agent development framework</b></p>
-      <p>SaaS-style microservice framework with tenant isolation, plugin architecture, JWT auth, LLM streaming chat, and Docker Compose deployment.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
+## 🛠 Tech Stack
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,react,go,python,java,spring,docker,redis,mysql,fastapi,git,linux&perline=12" alt="Tech stack" />
+</p>
 
-## 🧰 Tech Stack
+**前端**：Next.js · React Native (Expo) · Tailwind CSS　**后端**：Go · Java · Spring Boot · Gin · GORM　**AI**：PyTorch · FastAPI
 
-<div align="center">
+## 🐍 Contributions
 
-### AI / Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Frontend / Mobile
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-
-### Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## 📦 More Work
-
-#### 🛠 SDK & Backend
-- 🌈 [rainbow-pay-sdk-go](https://github.com/JeffreyZhu0201/rainbow-pay-sdk-go) — Go SDK for Rainbow Pay V2 order creation, signing & payment requests
-- 🛡️ [SpringBoot3APISecurity](https://github.com/JeffreyZhu0201/SpringBoot3APISecurity) — Spring Boot 3 API encryption & signature verification with RSA
-- 🧱 [SpringBoot3Guidance](https://github.com/JeffreyZhu0201/SpringBoot3Guidance) — Step-by-step Spring Boot 3 starter project & utility templates
-
-#### 🤖 AI Experiments
-- 🤖 [MarsAgent-test](https://github.com/JeffreyZhu0201/MarsAgent-test) — AI course-builder multi-agent pipeline (Planner → Author → Quiz → Validator) with RAG & SSE streaming
-- 🏢 [MeridianERP](https://github.com/JeffreyZhu0201/MeridianERP) — Full-stack ERP system with TypeScript frontend
-
-#### 🎨 Templates & Tools
-- 🌐 [GeneralCompanyLandingPage](https://github.com/JeffreyZhu0201/GeneralCompanyLandingPage) — Generic company website template
-- 💰 [GenericFinanceWebsiteUI](https://github.com/JeffreyZhu0201/GenericFinanceWebsiteUI) — Generic finance / wealth-management website UI template
-- 📋 [NextJsDashboard](https://github.com/JeffreyZhu0201/NextJsDashboard) — Next.js official learning project with dashboard patterns
-- 🧩 [Nextjs-Nestjs-Tailwind-TS-TurboRepo-Template](https://github.com/JeffreyZhu0201/Nextjs-Nestjs-Tailwind-TS-TurboRepo-Template) — Monorepo starter template
-- 📌 [SyncMark](https://github.com/JeffreyZhu0201/SyncMark) — Team-based collaborative web annotation browser extension
-- 📡 [CQU-auto-connect](https://github.com/JeffreyZhu0201/CQU-auto-connect) — Chongqing University campus Wi-Fi auto-connection tool
-- ⚙️ [nvim](https://github.com/JeffreyZhu0201/nvim) — My Neovim config for Python, Go & TypeScript
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JeffreyZhu0201&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffreyZhu0201&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top languages" />
-
-<br/>
-<br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JeffreyZhu0201&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-
-### 🤝 Let's Connect
-
-Open to collaborations on AI applications, full-stack products, and developer tooling.
-Feel free to reach out via [email](mailto:jeffreyzhu0201@gmail.com) or explore my [blog](https://github.com/JeffreyZhu0201/Jeffrey-Blog).
-
-**Thanks for stopping by 👋**
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeffreyZhu0201/JeffreyZhu0201/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/JeffreyZhu0201/JeffreyZhu0201/output/github-snake.svg" alt="Contribution snake" />
+</picture>
